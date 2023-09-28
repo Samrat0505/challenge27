@@ -1,3 +1,7 @@
 Till now I have completed the challenge 26.
+<<<<<<< HEAD
 Now today I am going to complete challenge 27.
 This all is because of Scale open source challenge.
+=======
+Now today I am going to complete challenge 27.
+>>>>>>> b656cb2 (Again changes for cherry pick)
